@@ -9,3 +9,5 @@ Store the ps1 file on a shared server or modify your deployment iso file or your
 Every time instead of wondering what causes the blue screen simply click the short-cut chose the resent log and press OK.
 
 Check the other scripts in my account for more easy sys admin ideas.
+
+Note! If there are no blue screens events on the machine the UI form will not appear. For the form to appear there must be at least one crash event.
