@@ -10,4 +10,4 @@ Every time instead of wondering what causes the blue screen simply click the sho
 
 Check the other scripts in my account for more easy sys admin ideas.
 
-Note! If there are no blue screens events on the machine the UI form will not appear. For the form to appear there must be at least one crash event.
+NOTE! If there are no blue screens events on the machine the UI form will not appear. For the form to appear there must be at least one crash event.
